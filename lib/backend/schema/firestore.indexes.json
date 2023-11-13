@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "empresas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "codCategoria",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Localizacao",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

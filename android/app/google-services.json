@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "77909421907",
+    "project_id": "cliq-716e5",
+    "storage_bucket": "cliq-716e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77909421907:android:744b3dfe20a2c83a333ba6",
+        "android_client_info": {
+          "package_name": "com.cliq.cliqapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77909421907-2fot7eju8g0qkr1gq68aag2s870gqgpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7LzPYqrdtF8Ez2OEBwHKbmmDx7IZZOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77909421907-2fot7eju8g0qkr1gq68aag2s870gqgpg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77909421907-1mu6d8ppfufpin44ppg3oapjq42bjp97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.negocio.adminApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77909421907:android:85a154d4bec468f8333ba6",
+        "android_client_info": {
+          "package_name": "com.negocio.adminApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77909421907-2fot7eju8g0qkr1gq68aag2s870gqgpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7LzPYqrdtF8Ez2OEBwHKbmmDx7IZZOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77909421907-2fot7eju8g0qkr1gq68aag2s870gqgpg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77909421907-1mu6d8ppfufpin44ppg3oapjq42bjp97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.negocio.adminApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
